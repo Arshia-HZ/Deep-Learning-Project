@@ -16,6 +16,7 @@ import datasets.food101
 import datasets.sun397
 import datasets.caltech101
 import datasets.ucf101
+import datasets.CUB200
 import datasets.imagenet
 
 import datasets.imagenet_sketch

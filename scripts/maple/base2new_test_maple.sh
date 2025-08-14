@@ -3,7 +3,7 @@
 #cd ../..
 
 # custom config
-DATA="/home/gamerx/Documents/datasets"
+DATA="/content/data"
 TRAINER=MaPLe
 
 DATASET=$1
