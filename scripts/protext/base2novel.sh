@@ -1,6 +1,6 @@
 DATASET=$1
 EXP=$2
-DATAPATH=/path/to/datasets/folder
+DATAPATH="/content/data"
 
 # Train and test ProText on base classes
 # --seed is only a place holder
