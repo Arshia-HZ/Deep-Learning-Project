@@ -49,7 +49,8 @@ CUSTOM_TEMPLATES = {
     "ImageNetR": "a photo of a {}.",
     "CUB200": "a photo of a {}, a type of bird.",
 }
-
+def normalize_key(key):
+    return key.split('.', 1)[-1].strip().lower().replace("_", " ")
 
 @TRAINER_REGISTRY.register()
 class ZeroshotCLIP(TrainerX):
@@ -94,8 +95,10 @@ class ZeroshotCLIP(TrainerX):
             # The order of embeddings should follow strictly order of classname variable
             # Keys name should match classnames so that we could do fetching from the dict.
             # Convert the dict to lower case
-            GPT_prompt_dict = {k.lower().replace("_", " "): v for k, v in GPT_prompt_dict.items()}
+            GPT_prompt_dict = {normalize_key(k): v for k, v in GPT_prompt_dict.items()}
+            print(f"[debug] **** Keys in GPT_prompt_dict: {list(GPT_prompt_dict.keys())[:20]}")  # Print first 20 keys for quick check
             k = 0
+            print(f"[debug] **** ClassNames: {classnames[:20]}")  # Print first 20 keys for quick check
             for single_key in classnames:
                 single_class_prompts = GPT_prompt_dict[single_key.lower().replace("_", " ")]
                 k += 1
