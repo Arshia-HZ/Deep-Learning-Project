@@ -1,5 +1,5 @@
 {
-  "Black_footed_Albatross": [
+  "001.Black_footed_Albatross": [
     "This species shows uniformly dark chocolate-brown plumage.",
     "Face appears slightly paler, giving a soft masked look.",
     "Long, narrow wings enable effortless dynamic soaring over swells.",
@@ -11,7 +11,7 @@
     "Often follows fishing vessels to scavenge discards.",
     "Breeds on remote Pacific islands with open sandy areas."
   ],
-  "Laysan_Albatross": [
+  "002.Laysan_Albatross": [
     "This species has a white head and body with contrasting dark wings.",
     "The bill is large, pale pink, and slightly hooked at the tip.",
     "Wings are long and narrow, ideal for dynamic soaring over the ocean.",
@@ -19,11 +19,11 @@
     "Upperparts are dark brown to black, contrasting sharply with the white underparts.",
     "Flight is graceful, with long glides low over the waves.",
     "The tail is short and blends into the dark upperparts.",
-    "Legs and feet are pale, matching the bill’s soft tone.",
+    "Legs and feet are pale, matching the bill\u2019s soft tone.",
     "Often found in the central Pacific, especially around breeding islands.",
     "Forages by surface-seizing squid, fish, and crustaceans in pelagic waters."
   ],
-  "Sooty_Albatross": [
+  "003.Sooty_Albatross": [
     "This species has uniformly dark brown to sooty-black plumage.",
     "The bill is slender, black, and sharply hooked at the tip.",
     "A thin white line encircles the eye, adding a subtle highlight.",
@@ -35,7 +35,7 @@
     "Prefers subantarctic and southern temperate oceanic waters.",
     "Forages by surface-seizing squid and fish far from land."
   ],
-  "Groove_billed_Ani": [
+  "004.Groove_billed_Ani": [
     "This species has glossy black plumage with a slight greenish sheen in sunlight.",
     "The bill is large, laterally flattened, and marked with distinct vertical grooves.",
     "Tail is long and broad, often held cocked or fanned while perched.",
@@ -46,8 +46,8 @@
     "Flight is weak and undulating, usually over short distances.",
     "Forages on the ground or in low vegetation for insects and small vertebrates.",
     "Social, often seen in small, noisy family groups."
-  ] ,
-  "Crested_Auklet": [
+  ],
+  "005.Crested_Auklet": [
     "This species has dark gray plumage with a slight bluish sheen.",
     "A prominent forward-curving crest of feathers rises from the forehead.",
     "The bill is short, deep orange, and slightly compressed side-to-side.",
@@ -58,8 +58,8 @@
     "Legs and feet are dark, positioned far back on the body for swimming.",
     "Often seen in dense nesting colonies on rocky cliffs.",
     "Flight is fast and direct, low over the ocean surface."
-  ] ,
-  "Least_Auklet": [
+  ],
+  "006.Least_Auklet": [
     "This species is the smallest auk, with compact proportions and short wings.",
     "Plumage is mottled gray and white, giving a speckled overall appearance.",
     "The bill is tiny, dark, and slightly upturned at the tip.",
@@ -70,8 +70,8 @@
     "Often nests in rock crevices and talus slopes on remote islands.",
     "Forms extremely dense breeding colonies with loud, constant chatter.",
     "Flight is rapid and direct, low over the ocean surface."
-  ] ,
-  "Parakeet_Auklet": [
+  ],
+  "007.Parakeet_Auklet": [
     "This species has a short, deep, reddish-orange bill with a slight upward curve.",
     "Plumage is mostly dark gray to black above and white below.",
     "A distinctive thin white line extends from the eye toward the neck.",
@@ -82,8 +82,8 @@
     "Breeds on rocky cliffs and talus slopes of remote northern islands.",
     "Flight is fast and direct, low over the ocean surface.",
     "Forages mainly on small fish, squid, and zooplankton captured by diving."
-  ] ,
-  "Rhinoceros_Auklet":  [
+  ],
+  "008.Rhinoceros_Auklet": [
     "This species has dark gray upperparts and white underparts with a clean division at the chest.",
     "A short, thick orange bill features a unique horn-like projection in breeding adults.",
     "Eyes are pale with white plumes extending backward from the eye during breeding season.",
@@ -93,9 +93,9 @@
     "Breeds in burrows dug into grassy slopes or soil near the coast.",
     "Forages mainly on small fish, squid, and crustaceans caught by pursuit diving.",
     "Capable of diving to considerable depths using wings as flippers.",
-    "Outside breeding season, the horn and white facial plumes are absent."  
+    "Outside breeding season, the horn and white facial plumes are absent."
   ],
-  "Brewer_Blackbird": [
+  "009.Brewer_Blackbird": [
     "Males have glossy black plumage with an iridescent purple sheen on the head and greenish tones on the body.",
     "Females are brownish-gray overall with a slightly paler throat and less glossy appearance.",
     "Eyes are bright yellow in males, contrasting sharply with dark feathers.",
@@ -106,8 +106,8 @@
     "Frequently forages in flocks on insects, seeds, and grains.",
     "Adapts well to urban areas, parks, farms, and grasslands.",
     "Flight is direct with steady wingbeats and short glides."
-  ] ,
-  "Red_winged_Blackbird": [
+  ],
+  "010.Red_winged_Blackbird": [
     "Males are glossy black with bright red shoulder patches edged in yellow.",
     "Females are brown and heavily streaked, resembling large sparrows.",
     "The red shoulder epaulets are displayed prominently during territorial and courtship displays.",
@@ -119,7 +119,7 @@
     "Males perch conspicuously on reeds, cattails, or fence posts while singing.",
     "Song is a distinctive, buzzy 'konk-la-ree' call used to defend territory."
   ],
-  "Rusty_Blackbird": [
+  "011.Rusty_Blackbird": [
     "Breeding males are glossy black with a subtle greenish sheen.",
     "Nonbreeding plumage in males shows rusty edges on feathers.",
     "Females are gray-brown with pale supercilium and rusty feather edges.",
@@ -131,7 +131,7 @@
     "Migrates in flocks, often mixing with other blackbird species.",
     "Breeding range extends across boreal forests of North America."
   ],
-  "Yellow_headed_Blackbird": [
+  "012.Yellow_headed_Blackbird": [
     "Males have bright yellow heads and chests with glossy black bodies.",
     "Females are brown with a duller yellow throat and chest.",
     "Bill is sharply pointed and black, suited for foraging.",
@@ -143,7 +143,7 @@
     "Tail is medium-length and rounded.",
     "Males display by singing from exposed perches."
   ],
-  "Bobolink": [
+  "013.Bobolink": [
     "Breeding males are black with white backs and buffy napes.",
     "Females are warm brown with streaked upperparts and pale underparts.",
     "Bill is short, conical, and adapted for seed eating.",
@@ -155,7 +155,7 @@
     "In flight, males show contrasting white and black wing patterns.",
     "Winter plumage in males resembles that of females."
   ],
-  "Indigo_Bunting": [
+  "014.Indigo_Bunting": [
     "Breeding males are brilliant blue all over with darker wings.",
     "Females are brown with faint streaking and a paler throat.",
     "Bill is short, conical, and silver-gray.",
@@ -167,7 +167,7 @@
     "Winter males molt into brown plumage with blue hints.",
     "Migrates to Central America and the Caribbean for winter."
   ],
-  "Lazuli_Bunting": [
+  "015.Lazuli_Bunting": [
     "Males have bright blue heads and backs with orange breasts and white bellies.",
     "Females are brown with pale underparts and faint wing bars.",
     "Bill is short, conical, and gray.",
@@ -179,7 +179,7 @@
     "Winter plumage in males is duller with less orange.",
     "Migrates to Mexico for the winter."
   ],
-  "Painted_Bunting": [
+  "016.Painted_Bunting": [
     "Males are vividly colored with blue heads, green backs, and red underparts.",
     "Females and juveniles are bright green overall with yellowish underparts.",
     "Bill is short, conical, and dark gray.",
@@ -191,7 +191,7 @@
     "Often visits feeders for millet and sunflower seeds.",
     "Migrates to Central America and the Caribbean for winter."
   ],
-  "Cardinal": [
+  "017.Cardinal": [
     "Males are bright red overall with a black mask around the bill.",
     "Females are warm brown with reddish tinges on the wings, tail, and crest.",
     "Both sexes have a prominent crest on the head.",
@@ -203,7 +203,7 @@
     "Often visits bird feeders year-round.",
     "Males sing from high perches to defend territory."
   ],
-  "Spotted_Catbird": [
+  "018.Spotted_Catbird": [
     "Plumage is olive-green with distinct pale spotting on the underparts.",
     "Head and upperparts are a uniform green tone.",
     "Bill is dark gray and slightly curved.",
@@ -215,7 +215,7 @@
     "Often solitary or in pairs.",
     "Builds large, domed nests from sticks and leaves."
   ],
-  "Gray_Catbird": [
+  "019.Gray_Catbird": [
     "Overall slate-gray plumage with a black cap and rufous undertail coverts.",
     "Bill is slender, slightly curved, and black.",
     "Tail is long and dark with a squared tip.",
@@ -227,7 +227,7 @@
     "Migrates to the southern United States, Central America, and the Caribbean.",
     "Nests are built low in dense vegetation."
   ],
-  "Yellow_breasted_Chat": [
+  "020.Yellow_breasted_Chat": [
     "Bright yellow throat and breast contrast with olive-green upperparts.",
     "White spectacles encircle the eyes and connect across the forehead.",
     "Bill is stout and slightly curved, suited for varied diet.",
@@ -239,7 +239,7 @@
     "Migrates to Central America for the winter.",
     "Nests are well hidden in dense foliage."
   ],
-  "Eastern_Towhee": [
+  "021.Eastern_Towhee": [
     "Males have black upperparts, head, and throat with white belly and rufous sides.",
     "Females have similar patterning but brown replaces black.",
     "Bill is short, thick, and black.",
@@ -251,7 +251,7 @@
     "Breeds in eastern and southeastern North America.",
     "Nests on or near the ground under dense cover."
   ],
-  "Chuck_will_Widow": [
+  "022.Chuck_will_Widow": [
     "Plumage is mottled brown, gray, and black, blending perfectly with leaf litter.",
     "Large head with a broad, flat bill and tiny, bristle-fringed mouth.",
     "Eyes are large and dark, adapted for excellent night vision.",
@@ -263,7 +263,7 @@
     "Breeds in the southeastern United States in open woodlands and clearings.",
     "Nests directly on leaf litter without building a structure."
   ],
-  "Brandt_Cormorant": [
+  "023.Brandt_Cormorant": [
     "Plumage is mostly black with a glossy greenish sheen in breeding season.",
     "Blue throat pouch becomes more vivid during courtship.",
     "Bill is slender, hooked, and dark gray.",
@@ -275,7 +275,7 @@
     "Breeds on rocky coasts and offshore islands of the Pacific.",
     "Nests are built from seaweed and guano on cliff edges."
   ],
-  "Red_faced_Cormorant": [
+  "024.Red_faced_Cormorant": [
     "Plumage is dark blackish-brown with slight green gloss in breeding season.",
     "Bare facial skin is bright red-orange, especially vivid during courtship.",
     "Bill is slender, hooked, and yellowish at the base.",
@@ -287,7 +287,7 @@
     "Breeds on rocky cliffs and islands in the North Pacific.",
     "Nests are built from seaweed and other coastal vegetation."
   ],
-  "Pelagic_Cormorant": [
+  "025.Pelagic_Cormorant": [
     "Slender cormorant with mostly black plumage and slight iridescence.",
     "During breeding, has white flank patches and fine white filoplumes on the neck.",
     "Bill is thin, slightly hooked, and dark gray.",
@@ -299,7 +299,7 @@
     "Breeds on steep rocky cliffs along Pacific coasts.",
     "Nests are made of seaweed and algae, cemented with guano."
   ],
-  "Bronzed_Cowbird": [
+  "026.Bronzed_Cowbird": [
     "Males are glossy black with a bronze to purplish sheen.",
     "Females are duller brown with less gloss.",
     "Bill is short, thick, and black.",
@@ -307,11 +307,11 @@
     "Tail is short and square-tipped.",
     "Often found in open fields, pastures, and agricultural areas.",
     "Feeds on seeds, grains, and insects.",
-    "Known for brood parasitism, laying eggs in other birds’ nests.",
+    "Known for brood parasitism, laying eggs in other birds\u2019 nests.",
     "Flight is direct with rapid wingbeats.",
     "Breeds in the southern United States into Central America."
   ],
-  "Shiny_Cowbird": [
+  "027.Shiny_Cowbird": [
     "Males are glossy violet-black with a high sheen.",
     "Females are dull brown with a faint streaking on underparts.",
     "Bill is short, conical, and black.",
@@ -323,7 +323,7 @@
     "Breeds in the Caribbean, South America, and parts of southern North America.",
     "Forages in flocks, sometimes with other blackbird species."
   ],
-  "Brown_Creeper": [
+  "028.Brown_Creeper": [
     "Small bird with mottled brown upperparts and white underparts.",
     "Long, slender, decurved bill adapted for probing bark crevices.",
     "Tail is stiff and used as a prop while climbing tree trunks.",
@@ -335,7 +335,7 @@
     "Song is a high, thin series of descending notes.",
     "Nests behind loose bark or in tree crevices."
   ],
-  "American_Crow": [
+  "029.American_Crow": [
     "Plumage is entirely glossy black with a slight iridescent sheen in sunlight.",
     "Bill is large, stout, and black, suited for varied foraging.",
     "Eyes are dark brown, blending with the plumage.",
@@ -347,7 +347,7 @@
     "Forms large communal roosts in winter.",
     "Breeds in a variety of habitats from forests to cities."
   ],
-  "Fish_Crow": [
+  "030.Fish_Crow": [
     "Plumage is entirely glossy black, similar to the American Crow.",
     "Bill is slightly slimmer and more pointed than that of the American Crow.",
     "Tail is shorter and more squared than other crow species.",
@@ -359,7 +359,7 @@
     "Forms flocks that may mix with American Crows.",
     "Breeds in trees near water bodies."
   ],
-  "Black_billed_Cuckoo": [
+  "031.Black_billed_Cuckoo": [
     "Slender bird with brown upperparts and white underparts.",
     "Bill is long, thin, and black, slightly decurved.",
     "Tail is long with narrow white tips on the underside.",
@@ -371,7 +371,7 @@
     "Secretive and often detected by voice rather than sight.",
     "Nests are shallow platforms of twigs in shrubs or trees."
   ],
-  "Mangrove_Cuckoo": [
+  "032.Mangrove_Cuckoo": [
     "Upperparts are warm brown, contrasting with pale underparts.",
     "Face shows a bold black mask through the eye.",
     "Bill is long, slightly decurved, and black above with yellow below.",
@@ -383,7 +383,7 @@
     "Breeds in coastal mangrove and hammock habitats.",
     "Nests are shallow stick platforms in dense cover."
   ],
-  "Yellow_billed_Cuckoo": [
+  "033.Yellow_billed_Cuckoo": [
     "Upperparts are warm brown, contrasting with white underparts.",
     "Bill is long, slightly curved, and mostly yellow below.",
     "Tail is long with large white spots on the underside.",
@@ -395,7 +395,7 @@
     "Secretive and often difficult to spot in dense foliage.",
     "Breeds in much of the eastern and southwestern United States."
   ],
-  "Gray_crowned_Rosy_Finch": [
+  "034.Gray_crowned_Rosy_Finch": [
     "Plumage is brown overall with pinkish washes on the wings and belly.",
     "Head is gray with a darker brown crown.",
     "Bill is short, conical, and yellow in winter turning black in summer.",
@@ -407,7 +407,7 @@
     "Breeds in rocky crevices and cliffs in high mountains.",
     "Nests are cup-shaped and lined with fine grasses."
   ],
-  "Purple_Finch": [
+  "035.Purple_Finch": [
     "Males are raspberry-red on the head, chest, and back, blending into brown wings.",
     "Females are brown and heavily streaked with a white eyebrow.",
     "Bill is short, conical, and grayish-horn colored.",
@@ -419,11 +419,11 @@
     "Migrates south in winter to the eastern and southern United States.",
     "Forages in flocks outside breeding season."
   ],
-  "Northern_Flicker": [
+  "036.Northern_Flicker": [
     "Large woodpecker with brown plumage patterned in black barring and spots.",
     "Eastern form has yellow wing and tail linings, western form has red.",
     "Face has a gray crown, brown forehead, and black crescent on the chest.",
-    "Males have a mustache stripe—black in eastern, red in western birds.",
+    "Males have a mustache stripe\u2014black in eastern, red in western birds.",
     "Bill is long, slightly curved, and grayish-black.",
     "Feeds mainly on ants and beetles, often foraging on the ground.",
     "Flight is undulating with flashes of color in wings and tail.",
@@ -431,7 +431,7 @@
     "Nests in tree cavities, often in dead or decaying wood.",
     "Common in open woodlands, forest edges, and parks."
   ],
-  "Acadian_Flycatcher": [
+  "037.Acadian_Flycatcher": [
     "Small flycatcher with olive-green upperparts and whitish underparts.",
     "Bill is short, broad, and dark above with pale lower mandible.",
     "Eye-ring is faint but present, with short whitish wing bars.",
@@ -443,7 +443,7 @@
     "Nests are delicate cups suspended from horizontal branches.",
     "Often perches quietly before darting out to catch prey."
   ],
-  "Great_Crested_Flycatcher": [
+  "038.Great_Crested_Flycatcher": [
     "Large flycatcher with olive-brown upperparts and bright yellow underparts.",
     "Head shows a slight crest that can be raised when alert.",
     "Wings and tail are rufous-toned, especially noticeable in flight.",
@@ -455,7 +455,7 @@
     "Migrates to Central America and northern South America for winter.",
     "Often adds shed snake skins to its nest lining."
   ],
-  "Least_Flycatcher": [
+  "039.Least_Flycatcher": [
     "Small flycatcher with grayish-olive upperparts and pale underparts.",
     "Bill is short and broad with a dark upper mandible and pale lower.",
     "Prominent white eye-ring contrasts with darker head.",
@@ -467,7 +467,7 @@
     "Migrates to Central America for winter.",
     "Nests in trees or shrubs in open woodlands."
   ],
-  "Olive_sided_Flycatcher": [
+  "040.Olive_sided_Flycatcher": [
     "Medium-large flycatcher with dark olive-gray upperparts and white underparts.",
     "White extends up the center of the belly, flanked by dark sides creating a vested look.",
     "Bill is stout and dark, suited for large insect prey.",
@@ -479,7 +479,7 @@
     "Migrates to Central and South America for winter.",
     "Nests high in conifer trees, usually on horizontal branches."
   ],
-  "Scissor_tailed_Flycatcher": [
+  "041.Scissor_tailed_Flycatcher": [
     "Slender flycatcher with pale gray head and back and salmon-pink flanks.",
     "Tail is extremely long and deeply forked, especially in males.",
     "Bill is short, broad, and black.",
@@ -491,7 +491,7 @@
     "Nests in trees, shrubs, or utility poles.",
     "Juveniles have shorter tails and duller plumage."
   ],
-  "Vermilion_Flycatcher": [
+  "042.Vermilion_Flycatcher": [
     "Males are brilliant red with dark brown wings, back, and mask.",
     "Females are gray-brown above with pale underparts and a salmon wash on the belly.",
     "Bill is short, broad, and black.",
@@ -503,7 +503,7 @@
     "Nests on horizontal branches in trees or shrubs.",
     "Juveniles resemble females but with faint reddish tinges."
   ],
-  "Yellow_bellied_Flycatcher": [
+  "043.Yellow_bellied_Flycatcher": [
     "Small flycatcher with olive-green upperparts and bright yellow underparts.",
     "Bill is short and broad with a dark upper mandible and pale lower.",
     "Eye-ring is bold and complete, giving a spectacled look.",
@@ -515,7 +515,7 @@
     "Nests on the ground in mossy hummocks or low vegetation.",
     "Often perches low in shaded areas near water."
   ],
-  "Frigatebird": [
+  "044.Frigatebird": [
     "Large seabird with extremely long, pointed wings and deeply forked tail.",
     "Plumage is mostly black in males, with females showing white breast and belly.",
     "Males have a large red throat pouch inflated during courtship displays.",
@@ -527,7 +527,7 @@
     "Females are larger than males, with white underparts.",
     "Juveniles have white heads and mottled brown plumage."
   ],
-  "Northern_Fulmar": [
+  "045.Northern_Fulmar": [
     "Stocky seabird with gray upperparts and white head and underparts.",
     "Bill is yellow with distinct tube-like nostrils on top.",
     "Wings are broad and stiff, adapted for dynamic soaring.",
@@ -539,7 +539,7 @@
     "Often follows ships for discarded food.",
     "Juveniles resemble adults but with fresher plumage."
   ],
-  "Gadwall": [
+  "046.Gadwall": [
     "Drake has patterned gray-brown body with black rear and white wing patch.",
     "Hen is mottled brown overall, similar to female Mallard but with thinner bill.",
     "Bill is dark in males and orange-edged in females.",
@@ -551,7 +551,7 @@
     "Nests are hidden in grass near water.",
     "Flight is swift with whistling wing sounds."
   ],
-  "American_Goldfinch": [
+  "047.American_Goldfinch": [
     "Breeding males are bright yellow with black cap, wings, and tail.",
     "Females are olive-yellow above with duller yellow underparts.",
     "Bill is short, conical, and pinkish during breeding season.",
@@ -563,7 +563,7 @@
     "Feeds mainly on seeds, especially from thistles and sunflowers.",
     "Breeds in weedy fields, meadows, and gardens."
   ],
-  "European_Goldfinch": [
+  "048.European_Goldfinch": [
     "Bright red face bordered by black and white on the head.",
     "Upperparts are warm brown, underparts whitish with buff flanks.",
     "Wings are black with bold yellow bars visible in flight.",
@@ -575,7 +575,7 @@
     "Nests in trees and shrubs, often well hidden.",
     "Breeds across Europe, western Asia, and introduced areas in other continents."
   ],
-  "Boat_tailed_Grackle": [
+  "049.Boat_tailed_Grackle": [
     "Males are glossy black with purplish and greenish iridescence.",
     "Females are rich brown above and paler below.",
     "Tail is long and keel-shaped, especially in males.",
@@ -587,7 +587,7 @@
     "Often forages along shorelines and in shallow water.",
     "Nests in colonies in marsh vegetation."
   ],
-  "Eared_Grebe": [
+  "050.Eared_Grebe": [
     "Breeding plumage shows black head, neck, and chest with golden fan-like feathers behind the eyes.",
     "Nonbreeding plumage is grayish-brown above and white below with a dark cap.",
     "Bill is thin, straight, and slightly upturned.",
@@ -599,7 +599,7 @@
     "Dives frequently, staying submerged for extended periods.",
     "Flight is quick with rapid wingbeats but rarely taken except for migration."
   ],
-  "Horned_Grebe": [
+  "051.Horned_Grebe": [
     "Breeding plumage has black head with golden feather tufts forming horn-like plumes.",
     "Nonbreeding plumage is gray above and white below with a sharp dark cap.",
     "Bill is short, straight, and black with a pale tip.",
@@ -611,7 +611,7 @@
     "Performs elaborate courtship dances with synchronized head movements.",
     "Flight is direct with rapid wingbeats."
   ],
-  "Pied_billed_Grebe": [
+  "052.Pied_billed_Grebe": [
     "Plumage is brown overall with slightly paler throat and belly.",
     "Bill is short, thick, and pale with a black band in breeding season.",
     "Eyes are dark brown, blending with facial feathers.",
@@ -623,7 +623,7 @@
     "Flight is weak and rarely taken except for migration.",
     "Juveniles have striped heads and necks."
   ],
-  "Western_Grebe": [
+  "053.Western_Grebe": [
     "Tall, slender grebe with long neck and straight black bill.",
     "Breeding plumage shows black upperparts and white underparts with sharp division at neck.",
     "Red eyes stand out against the dark head.",
@@ -635,7 +635,7 @@
     "Flight is direct with rapid wingbeats but rarely seen outside migration.",
     "Migrates to coastal waters in winter."
   ],
-  "Blue_Grosbeak": [
+  "054.Blue_Grosbeak": [
     "Males are deep blue with chestnut wing bars and blackish flight feathers.",
     "Females are warm brown with subtle blue tinges and chestnut wing bars.",
     "Bill is thick, conical, and silver-gray.",
@@ -647,7 +647,7 @@
     "Nests in low shrubs or small trees.",
     "Juveniles resemble females with more streaking."
   ],
-  "Evening_Grosbeak": [
+  "055.Evening_Grosbeak": [
     "Males are yellow with black wings, white patches, and a bright yellow forehead.",
     "Females are gray with yellow tinges and white wing patches.",
     "Bill is large, conical, and pale greenish in breeding season.",
@@ -659,7 +659,7 @@
     "Flocks are noisy, with clear 'cheer' or 'cleep' calls.",
     "Migratory movements vary with food availability."
   ],
-  "Pine_Grosbeak": [
+  "056.Pine_Grosbeak": [
     "Males are rose-red on head, breast, and back with gray wings and belly.",
     "Females are gray with olive-yellow on head and rump.",
     "Bill is short, conical, and black.",
@@ -671,7 +671,7 @@
     "Nests in conifers, often near the trunk.",
     "Flocks are quiet and slow-moving while feeding."
   ],
-  "Rose_breasted_Grosbeak": [
+  "057.Rose_breasted_Grosbeak": [
     "Males have black heads, backs, and wings with a striking rose-red patch on the white breast.",
     "Females are brown and streaked with a bold white eyebrow.",
     "Bill is large, conical, and pale pink.",
@@ -683,7 +683,7 @@
     "Migrates to Central and South America for winter.",
     "Males share incubation duties with females."
   ],
-  "Pigeon_Guillemot": [
+  "058.Pigeon_Guillemot": [
     "Medium-sized seabird with black plumage and bright red legs and feet in breeding season.",
     "White wing patches are bordered in black, forming a distinct pattern.",
     "Bill is thin, dark, and slightly downcurved at the tip.",
@@ -695,7 +695,7 @@
     "Often swims with head and neck extended forward.",
     "Courtship includes mutual calls and displays of red feet."
   ],
-  "California_Gull": [
+  "059.California_Gull": [
     "Medium-large gull with gray back, white head, and black wingtips with white spots.",
     "Bill is yellow with a red and black spot near the tip.",
     "Eyes are dark with a red orbital ring.",
@@ -705,9 +705,9 @@
     "Nests on the ground, often in dense colonies.",
     "Flight is strong and direct with steady wingbeats.",
     "Migrates to coastal areas in winter.",
-    "Juveniles are mottled brown and take four years to reach adult plumage." 
+    "Juveniles are mottled brown and take four years to reach adult plumage."
   ],
-  "Glaucous_winged_Gull": [
+  "060.Glaucous_winged_Gull": [
     "Large gull with pale gray back and wings matching the color of its mantle.",
     "Wingtips are pale gray rather than black.",
     "Bill is yellow with a red spot on the lower mandible.",
@@ -719,7 +719,7 @@
     "Flight is steady with deep wingbeats.",
     "Juveniles are mottled brown and take four years to mature."
   ],
-  "Heermann_Gull": [
+  "061.Heermann_Gull": [
     "Medium-sized gull with slate-gray body and white head in breeding plumage.",
     "Bill is bright red with a black tip.",
     "Nonbreeding plumage has a dusky head and neck.",
@@ -731,7 +731,7 @@
     "Juveniles are dark brown overall with a dull bill.",
     "Migrates north along the Pacific coast after breeding."
   ],
-  "Herring_Gull": [
+  "062.Herring_Gull": [
     "Large gull with gray back, white head, and black wingtips with white spots.",
     "Bill is yellow with a red spot on the lower mandible.",
     "Eyes are pale yellow with a red orbital ring.",
@@ -743,7 +743,7 @@
     "Juveniles are mottled brown and take four years to reach adult plumage.",
     "Often follows fishing boats and scavenges at harbors."
   ],
-  "Ivory_Gull": [
+  "063.Ivory_Gull": [
     "Medium-sized gull with entirely white plumage year-round.",
     "Bill is blue-gray with a yellow tip.",
     "Eyes are dark with a small red orbital ring.",
@@ -755,7 +755,7 @@
     "Juveniles are white with black spots and wingtips.",
     "Migrates short distances with ice movement in winter."
   ],
-  "Ring_billed_Gull": [
+  "064.Ring_billed_Gull": [
     "Medium-sized gull with a pale gray back, white head, and black wingtips with white spots.",
     "Bill is yellow with a distinct black ring near the tip.",
     "Eyes are yellow with a red orbital ring.",
@@ -767,7 +767,7 @@
     "Juveniles are mottled brown with pinkish legs and take three years to mature.",
     "Often seen at parking lots, beaches, and sports fields."
   ],
-  "Slaty_backed_Gull": [
+  "065.Slaty_backed_Gull": [
     "Large gull with dark slate-gray back and wings.",
     "Head and underparts are white, contrasting with dark mantle.",
     "Wingtips are black with bold white spots.",
@@ -779,7 +779,7 @@
     "Nests on rocky islands and cliffs.",
     "Flight is steady with deep wingbeats."
   ],
-  "Western_Gull": [
+  "066.Western_Gull": [
     "Large gull with dark gray back and white head and underparts.",
     "Wingtips are black with white spots.",
     "Bill is yellow with a red spot on the lower mandible.",
@@ -791,7 +791,7 @@
     "Flight is steady and direct with deep wingbeats.",
     "Juveniles are mottled brown, taking four years to reach adult plumage."
   ],
-  "Anna_Hummingbird": [
+  "067.Anna_Hummingbird": [
     "Males have iridescent rose-pink crown and throat extending onto the face.",
     "Females are green above with grayish underparts and small pink throat spots.",
     "Bill is straight, slender, and black.",
@@ -803,7 +803,7 @@
     "Nests are tiny cups made of plant down and spider silk.",
     "Resident year-round in much of its range."
   ],
-  "Ruby_throated_Hummingbird": [
+  "068.Ruby_throated_Hummingbird": [
     "Males have a brilliant ruby-red throat patch that can appear dark in shadow.",
     "Females are green above with white underparts and no red throat.",
     "Bill is long, straight, and slender.",
@@ -815,7 +815,7 @@
     "Migrates to Central America for winter, crossing the Gulf of Mexico.",
     "Nests are tiny cups bound with spider silk and camouflaged with lichens."
   ],
-  "Rufous_Hummingbird": [
+  "069.Rufous_Hummingbird": [
     "Males are orange overall with a bright red-orange throat and white chest.",
     "Females are green above with rufous flanks and tail bases.",
     "Bill is straight, slender, and black.",
@@ -827,7 +827,7 @@
     "Migrates long distances, among the longest for hummingbirds relative to size.",
     "Nests are small cups camouflaged with moss and lichens."
   ],
-  "Green_Violetear": [
+  "070.Green_Violetear": [
     "Plumage is mostly shimmering green with violet-blue patch on sides of head and chest.",
     "Bill is straight, slender, and black.",
     "Tail is slightly notched with blue tips and subterminal band.",
@@ -839,7 +839,7 @@
     "Nests are small cups made from plant fibers and spider silk.",
     "Males sing persistently from high perches to defend territory."
   ],
-  "Long_tailed_Jaeger": [
+  "071.Long_tailed_Jaeger": [
     "Slender seabird with long, pointed wings and extremely long central tail feathers in breeding adults.",
     "Breeding plumage shows a gray back, white underparts, and black cap.",
     "Nonbreeding plumage is duller with shorter tail streamers.",
@@ -851,7 +851,7 @@
     "Migrates long distances to winter at sea in the Southern Hemisphere.",
     "Juveniles are mottled brown and lack long tail streamers."
   ],
-  "Pomarine_Jaeger": [
+  "072.Pomarine_Jaeger": [
     "Large, robust jaeger with broad wings and heavy body.",
     "Breeding adults have twisted spoon-shaped central tail feathers.",
     "Plumage varies from pale with white underparts to dark overall.",
@@ -863,7 +863,7 @@
     "Migrates to open oceans in the Southern Hemisphere for winter.",
     "Juveniles are mottled brown with short tails."
   ],
-  "Blue_Jay": [
+  "073.Blue_Jay": [
     "Medium-sized songbird with bright blue upperparts and white underparts.",
     "Has a prominent crest and black necklace across the throat.",
     "Wings and tail are barred with black and white.",
@@ -875,7 +875,7 @@
     "Vocalizations include loud jeers, whistles, and mimicry of hawks.",
     "Nests in trees, using twigs and lined with softer materials."
   ],
-  "Florida_Jay": [
+  "074.Florida_Jay": [
     "Also known as the Florida Scrub-Jay, it has blue head, wings, and tail with gray back and underparts.",
     "Bill is black and straight, suited for foraging.",
     "Legs are black and relatively long.",
@@ -887,7 +887,7 @@
     "Vocalizations are harsh, scratchy calls.",
     "Highly social, often moving in family groups."
   ],
-  "Green_Jay": [
+  "075.Green_Jay": [
     "Striking jay with bright green back, blue crown, and yellow-green underparts.",
     "Has a black bib extending through the face, bordered by blue on the head.",
     "Bill is black, straight, and strong.",
@@ -899,7 +899,7 @@
     "Highly social, often in small flocks.",
     "Intelligent and adaptable in foraging."
   ],
-  "Dark_eyed_Junco": [
+  "076.Dark_eyed_Junco": [
     "Small sparrow with slate-gray head, chest, and back, and white belly.",
     "Bill is pale pink and conical.",
     "Tail is dark with distinctive white outer feathers.",
@@ -911,7 +911,7 @@
     "Nests on or near the ground, well hidden in vegetation.",
     "Migrates south in winter, forming flocks."
   ],
-  "Tropical_Kingbird": [
+  "077.Tropical_Kingbird": [
     "Large flycatcher with gray head, olive-green back, and bright yellow underparts.",
     "Bill is large, straight, and black, suited for catching insects mid-air.",
     "Tail is long and slightly forked.",
@@ -923,7 +923,7 @@
     "Often perches conspicuously on wires, fences, or treetops.",
     "Nests in trees, often in exposed spots."
   ],
-  "Gray_Kingbird": [
+  "078.Gray_Kingbird": [
     "Medium-sized flycatcher with pale gray upperparts and whitish underparts.",
     "Has a darker gray mask through the eyes.",
     "Bill is long, thick, and black.",
@@ -935,7 +935,7 @@
     "Nests in trees, often near human habitation.",
     "Aggressive in defending territory from larger birds."
   ],
-  "Belted_Kingfisher": [
+  "079.Belted_Kingfisher": [
     "Medium-large kingfisher with blue-gray upperparts and white underparts.",
     "Has a shaggy crest and thick, straight bill.",
     "Males have a single blue breast band; females have an additional rusty band on the belly.",
@@ -947,7 +947,7 @@
     "Nests in burrows dug into sandy banks.",
     "Flight is direct and strong over water."
   ],
-  "Green_Kingfisher": [
+  "080.Green_Kingfisher": [
     "Small kingfisher with glossy green upperparts and white underparts.",
     "Males have a broad chestnut breast band, females have green spotting on chest and flanks.",
     "Bill is long, straight, and black.",
@@ -959,7 +959,7 @@
     "Nests in burrows in riverbanks.",
     "Flight is rapid with short, stiff wingbeats."
   ],
-  "Pied_Kingfisher": [
+  "081.Pied_Kingfisher": [
     "Medium-sized kingfisher with striking black-and-white plumage.",
     "Bill is long, straight, and black, perfect for catching fish.",
     "Males have a double black breast band; females have a single, broken band.",
@@ -971,7 +971,7 @@
     "Often seen hovering in place before diving.",
     "Flight is strong and direct."
   ],
-  "Ringed_Kingfisher": [
+  "082.Ringed_Kingfisher": [
     "Large kingfisher with blue-gray upperparts and rufous underparts.",
     "Has a shaggy crest and thick, straight bill.",
     "White collar separates head from breast.",
@@ -983,7 +983,7 @@
     "Often perches prominently near water.",
     "Flight is direct with rapid wingbeats."
   ],
-  "White_breasted_Kingfisher": [
+  "083.White_breasted_Kingfisher": [
     "Also known as White-throated Kingfisher, with bright blue wings and back, chestnut head and underparts, and white throat and breast.",
     "Bill is large, straight, and bright red.",
     "Legs are red and strong.",
@@ -995,7 +995,7 @@
     "Flight is fast and direct.",
     "Highly adaptable and not dependent solely on aquatic habitats."
   ],
-  "Red_legged_Kittiwake": [
+  "084.Red_legged_Kittiwake": [
     "Medium-sized gull-like seabird with gray back, white head and underparts, and black wingtips.",
     "Distinctive bright red legs set it apart from the more common Black-legged Kittiwake.",
     "Bill is short, yellow, and slightly hooked.",
@@ -1007,7 +1007,7 @@
     "Call is a high-pitched 'kitti-waaake' sound.",
     "Population is restricted to a small range, making it vulnerable to environmental change."
   ],
-  "Horned_Lark": [
+  "085.Horned_Lark": [
     "Small songbird with pale brown back, black face mask, and small black 'horns' of feathers.",
     "Underparts are pale with a yellow wash on the throat in most subspecies.",
     "Bill is short, conical, and dark.",
@@ -1019,7 +1019,7 @@
     "Male displays include fluttering flight songs over territory.",
     "Plumage varies geographically from pale to darker tones."
   ],
-  "Pacific_Loon": [
+  "086.Pacific_Loon": [
     "Medium-sized loon with sleek black head, white throat, and vertical black-and-white stripes on the neck in breeding plumage.",
     "Back is dark gray with fine white spots.",
     "Bill is slender, straight, and black.",
@@ -1031,7 +1031,7 @@
     "Nests on the shoreline, often on small islands.",
     "Migrates to coastal waters in winter, sometimes far offshore."
   ],
-  "Mallard": [
+  "087.Mallard": [
     "Large dabbling duck with iridescent green head and yellow bill in males.",
     "Females are mottled brown with orange bills marked with black.",
     "Both sexes have a blue speculum bordered by white on the wings.",
@@ -1043,7 +1043,7 @@
     "Highly adaptable to urban environments.",
     "Migratory in many regions but resident in milder climates."
   ],
-  "Western_Meadowlark": [
+  "088.Western_Meadowlark": [
     "Medium-sized songbird with bright yellow underparts and bold black 'V' on the chest.",
     "Back is brown and streaked, blending into grassland habitats.",
     "Bill is long, straight, and pointed.",
@@ -1053,9 +1053,9 @@
     "Nests on the ground in well-hidden grass cups.",
     "Flight is low and fluttery between perches.",
     "Juveniles have paler yellow underparts and less distinct chest markings.",
-    "Territorial males sing prominently during breeding season."  
+    "Territorial males sing prominently during breeding season."
   ],
-  "Hooded_Merganser": [
+  "089.Hooded_Merganser": [
     "Small diving duck with striking fan-shaped crest in males.",
     "Males have black head with large white patch on crest, chestnut flanks, and black-and-white body.",
     "Females are brown with a cinnamon crest.",
@@ -1067,7 +1067,7 @@
     "Dives skillfully to chase underwater prey.",
     "Crest can be raised or lowered during displays."
   ],
-  "Red_breasted_Merganser": [
+  "090.Red_breasted_Merganser": [
     "Slim diving duck with spiky crest and long, thin, serrated orange bill.",
     "Males have dark green head, white neck ring, and rusty red breast.",
     "Females are gray with rusty head and white throat.",
@@ -1079,7 +1079,7 @@
     "Often forages in small flocks, sometimes cooperatively herding fish.",
     "Juveniles resemble females until they mature."
   ],
-  "Mockingbird": [
+  "091.Mockingbird": [
     "Medium-sized songbird with gray upperparts and pale underparts.",
     "Distinct white patches on the wings are visible in flight.",
     "Tail is long with white outer feathers.",
@@ -1091,7 +1091,7 @@
     "Sings loudly and continuously, especially during breeding season.",
     "Nests in shrubs or trees, often close to human habitation."
   ],
-  "Nighthawk": [
+  "092.Nighthawk": [
     "Medium-sized nightjar with long, pointed wings and small bill.",
     "Mottled brown, gray, and white plumage provides excellent camouflage.",
     "Distinctive white bar across each wing visible in flight.",
@@ -1103,7 +1103,7 @@
     "Males perform dramatic dives with booming wing sounds in courtship.",
     "Nests directly on bare ground or gravel rooftops."
   ],
-  "Clark_Nutcracker": [
+  "093.Clark_Nutcracker": [
     "Medium-large corvid with pale gray body and black wings with white patches.",
     "Tail is black with white outer feathers.",
     "Bill is long, straight, and pointed, adapted for extracting seeds.",
@@ -1115,7 +1115,7 @@
     "Flight is strong and direct between feeding areas.",
     "Highly intelligent and dependent on pine seed crops."
   ],
-  "White_breasted_Nuthatch": [
+  "094.White_breasted_Nuthatch": [
     "Small songbird with white face and underparts, blue-gray back, and black cap.",
     "Bill is slender, straight, and slightly upturned.",
     "Known for climbing headfirst down tree trunks.",
@@ -1127,7 +1127,7 @@
     "Often joins mixed-species foraging flocks in winter.",
     "Overall impression is of a quick, agile tree-climber with a distinctive foraging style."
   ],
-  "Baltimore_Oriole": [
+  "095.Baltimore_Oriole": [
     "Medium-sized songbird with bright orange underparts and black head in males.",
     "Females are yellow-orange with grayish-brown wings and back.",
     "Both sexes have white wing bars.",
@@ -1139,7 +1139,7 @@
     "Feeds on insects, fruit, and nectar, often visiting feeders with orange halves or jelly.",
     "Overall impression is of a bright, melodious bird associated with summer in the eastern U.S."
   ],
-  "Hooded_Oriole": [
+  "096.Hooded_Oriole": [
     "Slim oriole with bright yellow-orange body and black throat, wings, and tail in males.",
     "Females are olive-yellow with grayish wings.",
     "Bill is long, slender, and slightly curved.",
@@ -1151,7 +1151,7 @@
     "Often visits hummingbird feeders for sugar water.",
     "Overall impression is of a sleek, tropical-looking oriole adapted to warm climates."
   ],
-  "Orchard_Oriole": [
+  "097.Orchard_Oriole": [
     "Smallest North American oriole, with chestnut underparts and black head in adult males.",
     "Females are yellow-green overall with grayish wings.",
     "Bill is slender, pointed, and grayish.",
@@ -1163,7 +1163,7 @@
     "Often forages in mixed flocks during migration.",
     "Overall impression is of a small, agile oriole with rich coloration in males."
   ],
-  "Scott_Oriole": [
+  "098.Scott_Oriole": [
     "A striking black-and-yellow songbird found in arid deserts and open woodlands of the southwestern United States and Mexico.",
     "Males have jet-black heads, backs, and tails contrasted by bright lemon-yellow underparts and shoulders.",
     "Females are duller yellow with olive tones and less distinct black markings.",
@@ -1175,7 +1175,7 @@
     "Territorial males defend nesting areas vigorously during breeding season.",
     "Easily recognized by its high-contrast plumage and preference for desert flora."
   ],
-  "Ovenbird": [
+  "099.Ovenbird": [
     "A large, ground-dwelling warbler with olive-brown upperparts and boldly streaked underparts.",
     "Has a distinctive white eye-ring and an orange crown patch bordered by black stripes.",
     "Known for its loud, ringing 'teacher-teacher-teacher' song.",
@@ -1187,7 +1187,7 @@
     "Shy and well-camouflaged, often more easily heard than seen.",
     "Strongly territorial during the breeding season."
   ],
-  "Brown_Pelican": [
+  "100.Brown_Pelican": [
     "A large coastal seabird with a long bill and expandable throat pouch for scooping fish.",
     "Adults have brown bodies, pale heads, and long, narrow wings with dark flight feathers.",
     "Plunge-dives from heights to catch fish just below the water surface.",
@@ -1199,7 +1199,7 @@
     "Prefers warm coastal waters and rarely ventures far inland.",
     "Often seen resting on pilings, docks, or sandbars."
   ],
-  "White_Pelican": [
+  "101.White_Pelican": [
     "A massive waterbird with an enormous orange bill and white plumage accented by black wing tips.",
     "Unlike Brown Pelicans, they feed cooperatively by herding fish while swimming.",
     "Breeds on isolated islands in freshwater lakes across North America.",
@@ -1211,7 +1211,7 @@
     "Feeds mainly on fish but may also consume amphibians and crustaceans.",
     "One of the largest flying birds in North America."
   ],
-  "Western_Wood_Pewee": [
+  "102.Western_Wood_Pewee": [
     "A small, drab flycatcher with gray-olive upperparts and pale underparts.",
     "Has a faint wingbar and no prominent eye-ring.",
     "Voice is a plaintive, whistled 'pee-a-wee' call repeated frequently.",
@@ -1223,7 +1223,7 @@
     "Difficult to distinguish from Eastern Wood-Pewee without hearing the song.",
     "Prefers habitats with scattered trees and open understory."
   ],
-  "Sayornis": [
+  "103.Sayornis": [
     "A genus of medium-sized flycatchers including species like Eastern Phoebe, Black Phoebe, and Say's Phoebe.",
     "Typically have dark heads, slender bills, and tail-wagging behavior.",
     "Plumage is generally plain, with gray or brown tones and pale underparts.",
@@ -1235,7 +1235,7 @@
     "Songs are simple, repetitive phrases used for territory defense.",
     "Recognized for their habit of wagging tails while perched."
   ],
-  "American_Pipit": [
+  "104.American_Pipit": [
     "A slender, brownish songbird with fine streaks and a thin, pointed bill.",
     "In breeding plumage, has a pinkish wash on the underparts and bold facial markings.",
     "Breeds in alpine meadows and Arctic tundra across North America.",
@@ -1247,7 +1247,7 @@
     "Well camouflaged against grassy and rocky backgrounds.",
     "Also known as the 'Buff-bellied Pipit' in some regions."
   ],
-  "Whip_poor_Will": [
+  "105.Whip_poor_Will": [
     "A nocturnal bird with mottled brown, gray, and black plumage that provides excellent camouflage against forest floors.",
     "Named for its loud, repetitive 'whip-poor-will' call heard on warm summer nights.",
     "Has a short bill but a wide gape for catching flying insects in the dark.",
@@ -1259,7 +1259,7 @@
     "Often rests motionless on the ground or low branches during the day.",
     "Relies heavily on camouflage to avoid predators."
   ],
-  "Horned_Puffin": [
+  "106.Horned_Puffin": [
     "A seabird with black upperparts, white underparts, and a thick, colorful bill.",
     "Named for the small fleshy 'horns' above its eyes during breeding season.",
     "Bill is orange with a yellow base and a dark vertical stripe.",
@@ -1271,7 +1271,7 @@
     "Forms dense colonies during breeding season.",
     "Well adapted for both swimming and flying."
   ],
-  "Common_Raven": [
+  "107.Common_Raven": [
     "A large, all-black bird with a thick bill and shaggy throat feathers.",
     "Known for its deep, croaking call and remarkable vocal variety.",
     "Highly intelligent, capable of problem-solving and tool use.",
@@ -1283,7 +1283,7 @@
     "Plays and soars on air currents for apparent enjoyment.",
     "Distinguished from crows by larger size and wedge-shaped tail."
   ],
-  "White_necked_Raven": [
+  "108.White_necked_Raven": [
     "A large black corvid with a distinctive white patch on the back of the neck.",
     "Bill is massive, arched, and pale-tipped.",
     "Found in highland and mountainous regions of eastern and southern Africa.",
@@ -1295,7 +1295,7 @@
     "Pairs are often seen foraging together.",
     "Tail is slightly rounded compared to the wedge-shaped tail of Common Ravens."
   ],
-  "American_Redstart": [
+  "109.American_Redstart": [
     "A small warbler with striking black and orange plumage in adult males.",
     "Females and young are grayish-olive with yellow patches on the wings and tail.",
     "Known for its habit of fanning its tail to startle insects.",
@@ -1307,7 +1307,7 @@
     "Nests in trees or shrubs, usually low to the ground.",
     "Recognized by its vivid tail-flashing behavior."
   ],
-  "Geococcyx": [
+  "110.Geococcyx": [
     "A genus of ground-dwelling cuckoos known as roadrunners.",
     "Long-legged with strong feet adapted for running at high speeds.",
     "Plumage is streaked brown and white, blending with desert habitats.",
@@ -1319,7 +1319,7 @@
     "Has a distinctive 'cooing' or clattering vocalization.",
     "Famous for its speed and predatory skills."
   ],
-  "Loggerhead_Shrike": [
+  "111.Loggerhead_Shrike": [
     "A medium-sized songbird with gray upperparts, white underparts, and a black mask.",
     "Has a hooked bill adapted for catching and killing prey.",
     "Feeds on insects, small birds, reptiles, and rodents.",
@@ -1331,7 +1331,7 @@
     "Nests in dense shrubs or small trees.",
     "Often mistaken for a small raptor due to its predatory behavior."
   ],
-  "Great_Grey_Shrike": [
+  "112.Great_Grey_Shrike": [
     "A large, pale grey shrike with a bold black mask and white wing patches.",
     "Perches prominently on treetops or wires while scanning for prey.",
     "Feeds on insects, small birds, and rodents, often impaling them on thorns.",
@@ -1343,7 +1343,7 @@
     "Displays striking contrast between light body and dark mask.",
     "An apex songbird predator in its open-country habitat."
   ],
-  "Baird_Sparrow": [
+  "113.Baird_Sparrow": [
     "A small, streaked sparrow with a buffy face and fine crown stripes.",
     "Prefers tallgrass prairies and grassy meadows for breeding.",
     "Song is a thin, tinkling series of notes delivered from a perch.",
@@ -1355,7 +1355,7 @@
     "Populations have declined due to habitat loss.",
     "Recognized by its soft, insect-like song."
   ],
-  "Black_throated_Sparrow": [
+  "114.Black_throated_Sparrow": [
     "A desert sparrow with a striking black throat and bold white face stripes.",
     "Upperparts are gray, and underparts are clean white.",
     "Inhabits arid scrublands and desert washes in the southwestern U.S. and Mexico.",
@@ -1367,7 +1367,7 @@
     "Has a short, stout bill for cracking seeds.",
     "One of the most distinctive sparrows of desert regions."
   ],
-  "Brewer_Sparrow": [
+  "115.Brewer_Sparrow": [
     "A small, plain gray-brown sparrow with fine streaking and no bold markings.",
     "Known for its long, musical trilling song.",
     "Breeds in sagebrush plains of western North America.",
@@ -1379,7 +1379,7 @@
     "Has a slim bill and long tail relative to body size.",
     "Populations depend heavily on healthy sagebrush ecosystems."
   ],
-  "Chipping_Sparrow": [
+  "116.Chipping_Sparrow": [
     "A small sparrow with a bright rufous crown and black eye line in breeding plumage.",
     "Nonbreeding adults are plainer with brownish crowns.",
     "Feeds on seeds and insects, often visiting feeders.",
@@ -1391,7 +1391,7 @@
     "Often forages on lawns and open ground.",
     "Recognized by its simple yet distinctive song."
   ],
-  "Clay_colored_Sparrow": [
+  "117.Clay_colored_Sparrow": [
     "A small sparrow with a pale face, gray nape, and fine crown stripes.",
     "Breeds in shrubby grasslands and young aspen groves.",
     "Song is a series of short, buzzy notes.",
@@ -1403,7 +1403,7 @@
     "Difficult to spot in dense shrubbery due to cryptic colors.",
     "A specialist of early successional habitats."
   ],
-  "House_Sparrow": [
+  "118.House_Sparrow": [
     "A stocky, adaptable sparrow introduced from Europe to many parts of the world.",
     "Males have gray crowns, black bibs, and chestnut napes.",
     "Females are plain brown with streaked backs and no bold markings.",
@@ -1415,7 +1415,7 @@
     "Highly adaptable to various climates and habitats.",
     "One of the most familiar and widespread birds globally."
   ],
-  "Field_Sparrow": [
+  "119.Field_Sparrow": [
     "A small, warm-toned sparrow with a pink bill and clear gray face.",
     "Song is a sweet, accelerating series of whistles.",
     "Breeds in weedy fields, pastures, and shrubby edges.",
@@ -1427,7 +1427,7 @@
     "Prefers open areas with scattered vegetation.",
     "Population declines have been linked to habitat loss."
   ],
-  "Fox_Sparrow": [
+  "120.Fox_Sparrow": [
     "A large, chunky sparrow with heavily spotted underparts.",
     "Color varies from reddish in the east to grayish in the west.",
     "Feeds by kicking leaf litter to uncover seeds and insects.",
@@ -1439,9 +1439,9 @@
     "Often solitary outside breeding season.",
     "Recognized by its distinctive feeding behavior."
   ],
-  "Grasshopper_Sparrow": [
+  "121.Grasshopper_Sparrow": [
     "A small, flat-headed sparrow with a short tail and orange face patch.",
-    "Song is a thin, insect-like buzz resembling a grasshopper’s trill.",
+    "Song is a thin, insect-like buzz resembling a grasshopper\u2019s trill.",
     "Prefers dry grasslands and prairies.",
     "Feeds on seeds and insects, especially grasshoppers.",
     "Nests on the ground in grass clumps.",
@@ -1451,7 +1451,7 @@
     "Populations are declining due to grassland loss.",
     "Difficult to detect unless singing."
   ],
-  "Harris_Sparrow": [
+  "122.Harris_Sparrow": [
     "A large sparrow with a black face, bib, and crown in breeding plumage.",
     "Nonbreeding birds have mottled black on the head.",
     "Feeds on seeds, fruits, and insects, often foraging on the ground.",
@@ -1463,7 +1463,7 @@
     "Recognized by its pink bill and distinctive head pattern.",
     "The only songbird that breeds exclusively in Canada."
   ],
-  "Henslow_Sparrow": [
+  "123.Henslow_Sparrow": [
     "A small, secretive sparrow with a flat head and short tail.",
     "Has olive-brown upperparts with fine streaking and a greenish wash on the head.",
     "Song is a short, insect-like 'tsi-lick'.",
@@ -1475,7 +1475,7 @@
     "Populations are declining due to loss of grassland habitat.",
     "Difficult to observe except when singing."
   ],
-  "Le_Conte_Sparrow": [
+  "124.Le_Conte_Sparrow": [
     "A tiny sparrow with a buffy-orange face and fine streaking on the sides.",
     "Has a short tail and compact body.",
     "Song is a high, thin buzz similar to an insect call.",
@@ -1487,7 +1487,7 @@
     "Has a narrow pale stripe down the crown.",
     "Blends well into grassy habitats due to cryptic plumage."
   ],
-  "Lincoln_Sparrow": [
+  "125.Lincoln_Sparrow": [
     "A small, finely streaked sparrow with a buffy wash on the chest.",
     "Has a thin, white eye-ring and narrow crown stripes.",
     "Song is a sweet, musical warble with trills.",
@@ -1499,7 +1499,7 @@
     "Moves with quick hops and flicks its tail.",
     "Named for the friend of John James Audubon."
   ],
-  "Nelson_Sharp_tailed_Sparrow": [
+  "126.Nelson_Sharp_tailed_Sparrow": [
     "A small sparrow with a flat head and orange face patch.",
     "Has gray cheeks and fine streaking on the sides.",
     "Breeds in coastal marshes and inland wetlands.",
@@ -1511,7 +1511,7 @@
     "Adapted to tidal marsh habitats.",
     "Often sings from concealed perches."
   ],
-  "Savannah_Sparrow": [
+  "127.Savannah_Sparrow": [
     "A small, streaked sparrow with a yellow tinge in front of the eye.",
     "Highly variable in appearance across its range.",
     "Song is a high, thin series of notes ending with a buzzy trill.",
@@ -1523,7 +1523,7 @@
     "Recognized by its buzzy song and yellow facial spot.",
     "One of the most widespread sparrows in North America."
   ],
-  "Seaside_Sparrow": [
+  "128.Seaside_Sparrow": [
     "A large, dark sparrow with a heavy bill and yellow spot before the eye.",
     "Has grayish-olive upperparts and finely streaked underparts.",
     "Inhabits coastal saltmarshes along the eastern and Gulf coasts.",
@@ -1535,7 +1535,7 @@
     "Often sings from exposed perches in the marsh.",
     "Well adapted to saline environments."
   ],
-  "Song_Sparrow": [
+  "129.Song_Sparrow": [
     "A medium-sized sparrow with bold streaks and a central chest spot.",
     "Extremely variable in plumage across its range.",
     "Song is a rich, melodic series of notes and trills.",
@@ -1547,7 +1547,7 @@
     "Recognized by its combination of streaks and central chest spot.",
     "Common and widespread across North America."
   ],
-  "Tree_Sparrow": [
+  "130.Tree_Sparrow": [
     "A small sparrow with a rusty cap and a dark central breast spot.",
     "Has a bicolored bill with a yellow lower mandible.",
     "Breeds in the far northern tundra and taiga.",
@@ -1559,7 +1559,7 @@
     "Plumage is soft brown above and pale below.",
     "Despite its name, not closely related to the House Sparrow."
   ],
-  "Vesper_Sparrow": [
+  "131.Vesper_Sparrow": [
     "A large sparrow with white outer tail feathers and a fine eye-ring.",
     "Sings a sweet, musical song often delivered in flight.",
     "Breeds in open grasslands and fields with scattered shrubs.",
@@ -1571,7 +1571,7 @@
     "Often perches on fence posts or rocks while singing.",
     "Population declines linked to loss of grassland habitat."
   ],
-  "White_crowned_Sparrow": [
+  "132.White_crowned_Sparrow": [
     "A medium-sized sparrow with bold black-and-white head stripes.",
     "Has gray underparts and a pink or yellow bill depending on the population.",
     "Song varies geographically but is generally a clear whistle followed by trills.",
@@ -1583,7 +1583,7 @@
     "Often forages in flocks during migration and winter.",
     "Recognized by its crisp head pattern and whistled song."
   ],
-  "White_throated_Sparrow": [
+  "133.White_throated_Sparrow": [
     "A large sparrow with a bright white throat and yellow lores.",
     "Comes in two color morphs: white-striped and tan-striped.",
     "Song is a clear, whistled 'Oh-sweet-Canada-Canada'.",
@@ -1595,7 +1595,7 @@
     "Fluffs feathers in cold weather to retain heat.",
     "Recognized by its distinctive head pattern and sweet song."
   ],
-  "Cape_Glossy_Starling": [
+  "134.Cape_Glossy_Starling": [
     "A medium-sized starling with shimmering blue-green plumage that changes with the light.",
     "Native to southern Africa, often seen in open woodlands and savannas.",
     "Has bright orange-yellow eyes that stand out against its glossy feathers.",
@@ -1607,7 +1607,7 @@
     "Iridescent feathers help in mate attraction during breeding season.",
     "Adapts well to agricultural and suburban areas."
   ],
-  "Bank_Swallow": [
+  "135.Bank_Swallow": [
     "A small brown swallow with a distinct dark chest band.",
     "Breeds in colonies in sandy banks and cliffs where it digs nesting burrows.",
     "Feeds almost exclusively on flying insects, caught in swift aerial pursuits.",
@@ -1619,7 +1619,7 @@
     "Burrows can be up to a meter deep into the sandbank.",
     "Vulnerable to habitat loss from erosion control and development."
   ],
-  "Barn_Swallow": [
+  "136.Barn_Swallow": [
     "Recognized by its long, deeply forked tail and steel-blue upperparts.",
     "Has a reddish-brown throat and forehead contrasting with a cream belly.",
     "Feeds on flying insects, often over fields and water.",
@@ -1631,7 +1631,7 @@
     "Adapts well to human-modified environments.",
     "Considered a sign of good luck in many cultures."
   ],
-  "Cliff_Swallow": [
+  "137.Cliff_Swallow": [
     "A stocky swallow with a square tail and pale, buffy rump patch.",
     "Has a dark blue back, pale forehead, and rich chestnut throat.",
     "Builds gourd-shaped mud nests in large colonies on cliffs or buildings.",
@@ -1643,7 +1643,7 @@
     "Forages in large groups, sometimes with other swallow species.",
     "Nesting colonies can persist for decades in the same location."
   ],
-  "Tree_Swallow": [
+  "138.Tree_Swallow": [
     "A sleek swallow with iridescent blue-green upperparts and pure white underparts.",
     "Winters in southern U.S., Mexico, and Central America.",
     "Feeds mainly on flying insects, switching to berries in cooler weather.",
@@ -1655,7 +1655,7 @@
     "Plays an important role in controlling insect populations.",
     "Adapts well to artificial nest boxes provided by humans."
   ],
-  "Scarlet_Tanager": [
+  "139.Scarlet_Tanager": [
     "Breeding males are brilliant red with black wings and tail.",
     "Females and nonbreeding males are olive-yellow with darker wings.",
     "Prefers mature deciduous forests for breeding.",
@@ -1667,7 +1667,7 @@
     "Plays a role in dispersing seeds from berries.",
     "Bright breeding plumage helps males attract mates."
   ],
-  "Summer_Tanager": [
+  "140.Summer_Tanager": [
     "Males are entirely rosy-red, while females are mustard-yellow.",
     "Feeds heavily on bees and wasps, removing stingers before eating.",
     "Song is a sweet, melodic series similar to a robin's.",
@@ -1679,7 +1679,7 @@
     "One of the only all-red birds in North America.",
     "Helps control insect populations in breeding habitats."
   ],
-  "Artic_Tern": [
+  "141.Artic_Tern": [
     "A slender, graceful seabird with long tail streamers and a black cap.",
     "Known for the longest migration of any bird, traveling pole to pole annually.",
     "Breeding plumage is gray and white with a deep red bill.",
@@ -1691,7 +1691,7 @@
     "Has a high-pitched, sharp call used in communication.",
     "Symbol of endurance and long-distance travel in the bird world."
   ],
-  "Black_Tern": [
+  "142.Black_Tern": [
     "A small marsh tern with sooty black body and silver-gray wings in breeding plumage.",
     "Nonbreeding plumage is mostly white with a dark cap.",
     "Breeds in freshwater marshes across North America and Eurasia.",
@@ -1703,7 +1703,7 @@
     "Forages by skimming water surfaces or catching insects in midair.",
     "Populations have declined due to wetland loss."
   ],
-  "Caspian_Tern": [
+  "143.Caspian_Tern": [
     "The largest tern species, with a massive red-orange bill and black cap.",
     "Upperparts are pale gray and underparts are white.",
     "Breeds in colonies on sandy or pebbly islands.",
@@ -1715,7 +1715,7 @@
     "Often hovers briefly before diving for prey.",
     "Can live over 20 years in the wild."
   ],
-  "Common_Tern": [
+  "144.Common_Tern": [
     "A medium-sized tern with a black cap, gray body, and orange-red bill tipped in black.",
     "Breeds along coasts and inland lakes across the Northern Hemisphere.",
     "Feeds on small fish and invertebrates, caught by plunge-diving.",
@@ -1727,7 +1727,7 @@
     "Often seen hovering before diving into the water.",
     "Plays a role in indicating the health of marine ecosystems."
   ],
-  "Elegant_Tern": [
+  "145.Elegant_Tern": [
     "A slender tern with a long, slightly drooping orange bill and a shaggy black crest.",
     "Breeding plumage includes pale gray upperparts and white underparts.",
     "Breeds in large colonies on sandy islands along the Pacific coast.",
@@ -1739,7 +1739,7 @@
     "Nests in shallow scrapes in sandy or gravelly areas.",
     "Frequently mixes with other tern species at feeding sites."
   ],
-  "Forsters_Tern": [
+  "146.Forsters_Tern": [
     "A medium-sized tern with a slender orange bill tipped in black.",
     "In breeding plumage, sports a black cap and pale gray wings.",
     "Breeds in freshwater marshes across North America.",
@@ -1751,7 +1751,7 @@
     "Nonbreeding plumage features a white head with a dark eye patch.",
     "Often seen patrolling marsh edges for prey."
   ],
-  "Least_Tern": [
+  "147.Least_Tern": [
     "The smallest North American tern, with a short yellow bill tipped in black.",
     "Breeding adults have a black cap and white forehead.",
     "Nests on sandy beaches, riverbanks, and gravel flats.",
@@ -1763,7 +1763,7 @@
     "Conservation efforts protect nesting colonies from disturbance.",
     "In nonbreeding plumage, head pattern becomes duller and less distinct."
   ],
-  "Green_tailed_Towhee": [
+  "148.Green_tailed_Towhee": [
     "A medium-sized sparrow with olive-green wings and tail.",
     "Has a bright rufous crown and white throat with black borders.",
     "Prefers shrubby, brushy habitats in the western U.S.",
@@ -1775,7 +1775,7 @@
     "Plumage blends well with arid shrubland environments.",
     "Defends territories vigorously during breeding season."
   ],
-  "Brown_Thrasher": [
+  "149.Brown_Thrasher": [
     "A large, long-tailed songbird with rich reddish-brown upperparts.",
     "Has bold dark streaking on the underparts and bright yellow eyes.",
     "Known for its extensive song repertoire of over 1,000 phrases.",
@@ -1787,7 +1787,7 @@
     "Often sings from exposed perches in spring.",
     "Recognized by its distinctive, musical song with repeated phrases."
   ],
-  "Sage_Thrasher": [
+  "150.Sage_Thrasher": [
     "A small thrasher with gray-brown upperparts and heavily streaked underparts.",
     "Has a short, slightly curved bill compared to other thrashers.",
     "Specializes in sagebrush habitats of the western U.S.",
@@ -1799,7 +1799,7 @@
     "Often sings for long periods from elevated perches.",
     "Defends large territories during breeding season."
   ],
-  "Black_capped_Vireo": [
+  "151.Black_capped_Vireo": [
     "A small vireo with a striking black head and white spectacles.",
     "Has olive-green upperparts and white underparts with yellow flanks.",
     "Breeds in scrubby oak and juniper habitats in Texas and Mexico.",
@@ -1811,7 +1811,7 @@
     "Males are more brightly marked than females.",
     "Population recovery has been aided by conservation programs."
   ],
-  "Blue_headed_Vireo": [
+  "152.Blue_headed_Vireo": [
     "A small songbird with a blue-gray head, bold white spectacles, and olive-green back.",
     "Has white underparts with yellowish sides.",
     "Breeds in mixed forests across eastern North America.",
@@ -1823,7 +1823,7 @@
     "Often joins mixed-species foraging flocks in winter.",
     "Recognized by its crisp facial pattern and steady song."
   ],
-  "Philadelphia_Vireo": [
+  "153.Philadelphia_Vireo": [
     "A small vireo with olive-green upperparts and yellowish underparts.",
     "Has a faint gray crown and indistinct facial markings.",
     "Breeds in young deciduous forests in Canada and the northern U.S.",
@@ -1835,7 +1835,7 @@
     "Difficult to distinguish from other vireos without close observation.",
     "Prefers regenerating forests and shrubby areas during breeding."
   ],
-  "Red_eyed_Vireo": [
+  "154.Red_eyed_Vireo": [
     "A medium-sized vireo with olive-green upperparts and white underparts.",
     "Has a gray crown bordered by black stripes and a bright red eye in adults.",
     "Breeds across most of North America in deciduous forests.",
@@ -1847,7 +1847,7 @@
     "Juveniles have brown eyes that turn red as they mature.",
     "Often called the 'preacher bird' due to its constant singing."
   ],
-  "Warbling_Vireo": [
+  "155.Warbling_Vireo": [
     "A small, plain vireo with gray-olive upperparts and white underparts.",
     "Has a faint white eyebrow and a sweet, warbling song.",
     "Breeds in deciduous woodlands and urban parks across North America.",
@@ -1859,7 +1859,7 @@
     "Tolerates a variety of habitats, including suburban areas.",
     "Rarely mixes with other vireos, preferring to forage alone or in pairs."
   ],
-  "White_eyed_Vireo": [
+  "156.White_eyed_Vireo": [
     "A small vireo with a distinctive white eye and yellow spectacles.",
     "Has olive-green upperparts and yellow flanks with white underparts.",
     "Breeds in dense shrubby habitats across the southeastern and central U.S.",
@@ -1871,7 +1871,7 @@
     "Males sing persistently throughout the breeding season.",
     "Known for its bold facial pattern and piercing gaze."
   ],
-  "Yellow_throated_Vireo": [
+  "157.Yellow_throated_Vireo": [
     "A brightly colored vireo with a vivid yellow throat and breast.",
     "Has olive-green upperparts, white wing bars, and white underparts.",
     "Breeds in mature deciduous forests across eastern North America.",
@@ -1883,7 +1883,7 @@
     "Distinctive among vireos due to its bright yellow coloration.",
     "Pairs often stay together for multiple breeding seasons."
   ],
-  "Bay_breasted_Warbler": [
+  "158.Bay_breasted_Warbler": [
     "Breeding males have a rich chestnut crown, throat, and flanks.",
     "Females and nonbreeding birds are duller with olive tones.",
     "Prefers spruce and fir forests in the boreal region for breeding.",
@@ -1895,7 +1895,7 @@
     "Nests on horizontal branches high in conifers.",
     "Plumage is especially striking during spring migration."
   ],
-  "Black_and_white_Warbler": [
+  "159.Black_and_white_Warbler": [
     "A distinctive warbler with bold black-and-white stripes over its body.",
     "Creeps along tree trunks and branches like a nuthatch.",
     "Feeds on insects and spiders found in bark crevices.",
@@ -1907,7 +1907,7 @@
     "Males are more heavily streaked than females.",
     "Active and agile, moving quickly along tree surfaces."
   ],
-  "Black_throated_Blue_Warbler": [
+  "160.Black_throated_Blue_Warbler": [
     "Males have deep blue upperparts, black throat, and white underparts.",
     "Females are olive-brown with a pale eyebrow and duller colors.",
     "Breeds in mature deciduous and mixed forests in eastern North America.",
@@ -1917,9 +1917,9 @@
     "Builds a cup nest low in dense shrubs.",
     "Males are territorial and sing frequently during breeding season.",
     "Plumage contrast makes males easy to identify.",
-    "Females’ subtle colors provide camouflage for nesting."
+    "Females\u2019 subtle colors provide camouflage for nesting."
   ],
-  "Blue_winged_Warbler": [
+  "161.Blue_winged_Warbler": [
     "Bright yellow warbler with bluish-gray wings and two white wing bars.",
     "Has a thin black eye line and small, sharp bill.",
     "Breeds in shrubby fields and woodland edges in eastern North America.",
@@ -1931,7 +1931,7 @@
     "Active forager, sometimes hanging upside down to reach prey.",
     "Males display and sing prominently during breeding season."
   ],
-  "Canada_Warbler": [
+  "162.Canada_Warbler": [
     "Bright yellow underparts with a distinctive black necklace of streaks.",
     "Has bluish-gray upperparts and bold white eye-rings.",
     "Breeds in moist, shady forests across Canada and the northeastern U.S.",
@@ -1943,7 +1943,7 @@
     "Active and restless, often moving through the understory.",
     "Known for its striking facial markings and energetic behavior."
   ],
-  "Cape_May_Warbler": [
+  "163.Cape_May_Warbler": [
     "Breeding males have a chestnut cheek patch, yellow collar, and streaked underparts.",
     "Females are duller with less distinct markings.",
     "Breeds in boreal forests, especially in spruce trees.",
@@ -1955,7 +1955,7 @@
     "Can hover briefly to pick insects from foliage.",
     "Known for its specialized bill adapted to feeding on small insects."
   ],
-  "Cerulean_Warbler": [
+  "164.Cerulean_Warbler": [
     "Males are sky-blue above with white underparts and black streaks on the sides.",
     "Females are greenish-blue with a faint eyebrow stripe.",
     "Breeds in mature deciduous forests in eastern North America.",
@@ -1967,7 +1967,7 @@
     "Forages actively among leaves and branches.",
     "Males sing persistently from high perches during breeding season."
   ],
-  "Chestnut_sided_Warbler": [
+  "165.Chestnut_sided_Warbler": [
     "Breeding males have white underparts, yellow crown, and rich chestnut flanks.",
     "Females and nonbreeding birds are duller with less chestnut coloration.",
     "Breeds in shrubby second-growth habitats in eastern North America.",
@@ -1979,7 +1979,7 @@
     "Population has increased with regrowth of abandoned farmland.",
     "Known for its bright, contrasting breeding plumage."
   ],
-  "Golden_winged_Warbler": [
+  "166.Golden_winged_Warbler": [
     "Males have gray bodies with black throat, black mask, and golden crown and wing patches.",
     "Females are similar but have duller markings and less black on the throat.",
     "Breeds in shrubby, regenerating habitats in the northeastern U.S. and southern Canada.",
@@ -1987,11 +1987,11 @@
     "Song is a distinctive two-parted buzzy 'bee-bzzzzz'.",
     "Migrates to Central and South America for winter.",
     "Nests on or near the ground in dense vegetation.",
-    "Hybridizes with Blue-winged Warblers, producing 'Brewster’s' and 'Lawrence’s' Warblers.",
+    "Hybridizes with Blue-winged Warblers, producing 'Brewster\u2019s' and 'Lawrence\u2019s' Warblers.",
     "Conservation concern due to habitat loss and competition from hybrids.",
     "Males sing prominently from exposed perches during breeding season."
   ],
-  "Hooded_Warbler": [
+  "167.Hooded_Warbler": [
     "Males have a bright yellow face framed by a bold black hood and throat.",
     "Females and young birds are yellow-faced without the full black hood.",
     "Breeds in dense understory of moist forests in the eastern U.S.",
@@ -2003,7 +2003,7 @@
     "Active and agile, foraging in the lower forest layers.",
     "Known for its striking facial contrast and lively movements."
   ],
-  "Kentucky_Warbler": [
+  "168.Kentucky_Warbler": [
     "A ground-dwelling warbler with olive-green upperparts and bright yellow underparts.",
     "Has a black mask bordered by a yellow eyebrow stripe.",
     "Prefers dense, shaded understory in moist deciduous forests.",
@@ -2015,7 +2015,7 @@
     "Arrives late in spring compared to many other warblers.",
     "Difficult to spot despite its bright plumage due to its habitat preference."
   ],
-  "Magnolia_Warbler": [
+  "169.Magnolia_Warbler": [
     "Breeding males have a black mask, black streaked flanks, and yellow underparts.",
     "Females and nonbreeding birds are duller but retain yellow coloration.",
     "Breeds in boreal coniferous forests across Canada and the northern U.S.",
@@ -2027,7 +2027,7 @@
     "Known for its bold plumage patterns and long tail with white spots.",
     "Active and restless, moving quickly through foliage."
   ],
-  "Mourning_Warbler": [
+  "170.Mourning_Warbler": [
     "Males have olive upperparts, yellow underparts, and a black chest patch with gray hood.",
     "Females are duller and lack the distinct black chest patch.",
     "Breeds in dense thickets and regenerating clearcuts in northern North America.",
@@ -2039,7 +2039,7 @@
     "Arrives late in spring and departs early in fall.",
     "Prefers early successional habitats with thick cover."
   ],
-  "Myrtle_Warbler": [
+  "171.Myrtle_Warbler": [
     "Breeding males have gray upperparts, white wing patches, and yellow rump and throat.",
     "Females are duller with less distinct markings.",
     "Breeds in coniferous and mixed forests across Canada and the northern U.S.",
@@ -2051,7 +2051,7 @@
     "Nests in conifers, usually at mid-height.",
     "One of the most widespread and adaptable warblers in North America."
   ],
-  "Nashville_Warbler": [
+  "172.Nashville_Warbler": [
     "A small warbler with olive-green upperparts and bright yellow underparts.",
     "Has a gray head and a white eye-ring, with a hidden rusty crown patch.",
     "Breeds in young mixed or coniferous forests in Canada and the northern U.S.",
@@ -2063,7 +2063,7 @@
     "Arrives early in spring compared to some other warblers.",
     "Known for its bright, clean plumage and energetic behavior."
   ],
-  "Orange_crowned_Warbler": [
+  "173.Orange_crowned_Warbler": [
     "Olive-green above and yellowish below, with a faint orange crown rarely visible.",
     "Lacks strong wing bars or bold facial markings.",
     "Breeds in shrubby habitats and open forests across North America.",
@@ -2075,7 +2075,7 @@
     "One of the more subtly marked warblers, blending well with foliage.",
     "Highly adaptable to different breeding and wintering habitats."
   ],
-  "Palm_Warbler": [
+  "174.Palm_Warbler": [
     "Brownish warbler with yellow underparts and a rusty crown.",
     "Constantly pumps its tail while foraging.",
     "Breeds in bogs and boreal forests of Canada and the northern U.S.",
@@ -2087,7 +2087,7 @@
     "Shows more yellow in the eastern subspecies than in the western form.",
     "Known for its distinctive tail-bobbing behavior."
   ],
-  "Pine_Warbler": [
+  "175.Pine_Warbler": [
     "Olive-green above and yellow below with faint streaking on the breast.",
     "Has two white wing bars and a thin bill.",
     "Breeds in pine forests across eastern North America.",
@@ -2099,7 +2099,7 @@
     "One of the few warblers that regularly eats seeds in winter.",
     "Often visits feeders for suet and sunflower seeds."
   ],
-  "Prairie_Warbler": [
+  "176.Prairie_Warbler": [
     "Olive-green above with bright yellow underparts and black streaks on the sides.",
     "Males have a black line through the eye and on the face.",
     "Breeds in open scrub and regenerating fields in eastern North America.",
@@ -2111,7 +2111,7 @@
     "Population declining due to habitat loss from development.",
     "Known for its distinctive, upward-sliding song."
   ],
-  "Prothonotary_Warbler": [
+  "177.Prothonotary_Warbler": [
     "A bright yellow warbler with blue-gray wings and tail.",
     "Breeds in wooded swamps and along slow-moving rivers in the southeastern U.S.",
     "Feeds on insects, spiders, and snails, often near water.",
@@ -2121,9 +2121,9 @@
     "Males are territorial and aggressively defend nesting sites.",
     "Often forages along branches overhanging water.",
     "One of the few warblers to nest in cavities.",
-    "Named for its bright yellow color, reminiscent of Catholic protonotaries’ robes."
+    "Named for its bright yellow color, reminiscent of Catholic protonotaries\u2019 robes."
   ],
-  "Swainson_Warbler": [
+  "178.Swainson_Warbler": [
     "A large, secretive warbler with plain brown upperparts and pale underparts.",
     "Has a bold white eyebrow stripe and a slightly decurved bill.",
     "Breeds in dense canebrakes, swamps, and thick understory in the southeastern U.S.",
@@ -2135,7 +2135,7 @@
     "Arrives late in spring and departs early in fall.",
     "Known for its strong, melodious song despite its elusive nature."
   ],
-  "Tennessee_Warbler": [
+  "179.Tennessee_Warbler": [
     "A small, plain warbler with olive-green upperparts and whitish underparts.",
     "Has a thin, sharp bill adapted for feeding on small insects.",
     "Breeds in boreal forests, especially in spruce-fir regions.",
@@ -2147,7 +2147,7 @@
     "Lacks distinctive wing bars or bright facial markings.",
     "One of the more numerous warblers during migration."
   ],
-  "Wilson_Warbler": [
+  "180.Wilson_Warbler": [
     "Bright yellow warbler with a small, round black cap on males.",
     "Females have a reduced or absent black cap.",
     "Breeds in moist thickets, bogs, and riparian areas across North America.",
@@ -2159,7 +2159,7 @@
     "Often one of the last warblers to leave in fall migration.",
     "Easily recognized by its bright color and distinctive cap."
   ],
-  "Worm_eating_Warbler": [
+  "181.Worm_eating_Warbler": [
     "Olive-brown above with buffy underparts and bold black head stripes.",
     "Prefers steep, forested hillsides with dense understory in the eastern U.S.",
     "Feeds on caterpillars, spiders, and insects, often from dead leaves.",
@@ -2171,19 +2171,19 @@
     "Population is stable but dependent on mature forest habitats.",
     "Often stays low and out of sight despite its bright head pattern."
   ],
-  "Yellow_Warbler": [
+  "182.Yellow_Warbler": [
     "Bright yellow warbler with chestnut streaks on the breast of males.",
     "Females are slightly duller with faint or no streaking.",
     "Breeds in open woodlands, wetlands, and shrubby areas across North America.",
     "Feeds on insects and occasionally berries.",
-    "Song is a sweet, whistled 'sweet-sweet-sweet, I’m so sweet'.",
+    "Song is a sweet, whistled 'sweet-sweet-sweet, I\u2019m so sweet'.",
     "Migrates to Central and South America for winter.",
     "Builds a cup nest in shrubs or small trees.",
     "One of the most widespread warblers in the Americas.",
     "Aggressively removes cowbird eggs from its nest.",
     "Active and conspicuous, often singing from exposed perches."
   ],
-  "Northern_Waterthrush": [
+  "183.Northern_Waterthrush": [
     "Brown above with heavily streaked underparts and a pale eyebrow stripe.",
     "Prefers swampy forests, bogs, and streams for breeding.",
     "Feeds on insects, spiders, and aquatic invertebrates.",
@@ -2195,7 +2195,7 @@
     "More terrestrial in habits compared to many warblers.",
     "Has a slightly longer bill than its close relative, the Louisiana Waterthrush."
   ],
-  "Louisiana_Waterthrush": [
+  "184.Louisiana_Waterthrush": [
     "Brown above with clean white underparts and bold streaking on the breast.",
     "Has a broad, white eyebrow stripe that widens behind the eye.",
     "Prefers fast-flowing streams in mature forests.",
@@ -2207,7 +2207,7 @@
     "Arrives early in spring compared to many warblers.",
     "Territorial males patrol long stretches of stream."
   ],
-  "Bohemian_Waxwing": [
+  "185.Bohemian_Waxwing": [
     "Plump, silky bird with grayish-brown plumage and a soft crest.",
     "Has a black mask, yellow-tipped tail, and white-and-yellow wing markings.",
     "Breeds in boreal forests across the northern hemisphere.",
@@ -2219,7 +2219,7 @@
     "Irruptive species, moving south in large numbers when food is scarce.",
     "Often feeds on fermented berries, sometimes becoming intoxicated."
   ],
-  "Cedar_Waxwing": [
+  "186.Cedar_Waxwing": [
     "Sleek, pale brown bird with a crest and black mask.",
     "Has a yellow-tipped tail and red wax-like tips on some wing feathers.",
     "Breeds in open woodlands, orchards, and suburban areas.",
@@ -2231,7 +2231,7 @@
     "Migratory in the north, resident in warmer areas.",
     "Plumage appears smooth and silky, with soft color transitions."
   ],
-  "American_Three_toed_Woodpecker": [
+  "187.American_Three_toed_Woodpecker": [
     "Medium-sized woodpecker with black-and-white barred back and yellow crown patch on males.",
     "Has only three toes instead of the usual four in woodpeckers.",
     "Prefers coniferous forests, especially in burned or insect-damaged areas.",
@@ -2243,7 +2243,7 @@
     "Often leaves distinctive rectangular holes when foraging.",
     "Important in controlling bark beetle populations."
   ],
-  "Pileated_Woodpecker": [
+  "188.Pileated_Woodpecker": [
     "Large woodpecker with a striking red crest and black-and-white face pattern.",
     "Body is mostly black with white wing linings visible in flight.",
     "Feeds on carpenter ants, beetle larvae, and other insects.",
@@ -2255,7 +2255,7 @@
     "Flight is strong and direct, with deep wingbeats.",
     "Inspiration for the cartoon character Woody Woodpecker."
   ],
-  "Red_bellied_Woodpecker": [
+  "189.Red_bellied_Woodpecker": [
     "Medium-sized woodpecker with a pale belly and striking black-and-white barred back.",
     "Males have a bright red cap extending from the bill to the nape; females have red only on the nape and crown.",
     "Despite its name, the reddish tinge on the belly is often faint and hard to see.",
@@ -2267,7 +2267,7 @@
     "Active year-round across much of the eastern United States.",
     "Plays a role in controlling insect populations and dispersing seeds."
   ],
-  "Red_cockaded_Woodpecker": [
+  "190.Red_cockaded_Woodpecker": [
     "Small black-and-white woodpecker with a barred back and white cheek patch.",
     "Males have a tiny red streak ('cockade') behind the eye, often hidden.",
     "Specializes in nesting in living pine trees, particularly old-growth longleaf pines.",
@@ -2279,7 +2279,7 @@
     "Uses sap around nest entrances to deter predators.",
     "Relies heavily on frequent fires to maintain suitable habitat."
   ],
-  "Red_headed_Woodpecker": [
+  "191.Red_headed_Woodpecker": [
     "Medium-sized woodpecker with a completely red head, neck, and throat.",
     "Has white underparts, black back, and large white wing patches visible in flight.",
     "Prefers open woodlands, farmlands, and orchards.",
@@ -2291,7 +2291,7 @@
     "Highly territorial, especially during the breeding season.",
     "Migrates in some parts of its range, especially northern populations."
   ],
-  "Downy_Woodpecker": [
+  "192.Downy_Woodpecker": [
     "Smallest woodpecker in North America with black-and-white plumage.",
     "Males have a small red patch on the back of the head.",
     "Resembles the larger Hairy Woodpecker but with a shorter bill.",
@@ -2303,7 +2303,7 @@
     "Common year-round across much of the U.S. and Canada.",
     "Frequently forages along small twigs and stems for insects."
   ],
-  "Bewick_Wren": [
+  "193.Bewick_Wren": [
     "Small brown wren with a long tail often held upright.",
     "Has a distinct white eyebrow stripe and grayish underparts.",
     "Prefers brushy habitats, thickets, and open woodlands.",
@@ -2315,7 +2315,7 @@
     "Population has declined in some eastern regions due to competition with House Wrens.",
     "Highly adaptable to human-altered landscapes."
   ],
-  "Cactus_Wren": [
+  "194.Cactus_Wren": [
     "Largest wren in the United States with a spotted breast and long tail.",
     "Has a bold white eyebrow stripe and brown upperparts.",
     "Prefers arid desert habitats with cacti and thorny shrubs.",
@@ -2327,7 +2327,7 @@
     "Found mainly in the southwestern U.S. and northern Mexico.",
     "State bird of Arizona."
   ],
-  "Carolina_Wren": [
+  "195.Carolina_Wren": [
     "Small, stocky wren with reddish-brown upperparts and buff underparts.",
     "Has a prominent white eyebrow stripe.",
     "Prefers dense vegetation in forests, swamps, and suburban areas.",
@@ -2339,7 +2339,7 @@
     "Highly curious and bold around humans.",
     "Known for its loud song relative to its small size."
   ],
-  "House_Wren": [
+  "196.House_Wren": [
     "Small, plain brown wren with a faint eyebrow stripe.",
     "Prefers open woodlands, gardens, and suburban areas.",
     "Feeds mainly on insects and spiders.",
@@ -2351,7 +2351,7 @@
     "Adaptable and widespread across the Americas.",
     "Builds nests with sticks, often filling cavities completely."
   ],
-  "Marsh_Wren": [
+  "197.Marsh_Wren": [
     "Small, secretive wren with a short tail and bold white eyebrow stripe.",
     "Brown above with black-and-white streaks on the back.",
     "Prefers marshes and wetlands with dense cattails or reeds.",
@@ -2363,7 +2363,7 @@
     "Aggressive toward other small birds near its territory.",
     "Populations remain stable in most regions."
   ],
-  "Rock_Wren": [
+  "198.Rock_Wren": [
     "Medium-sized wren with grayish-brown plumage and faint streaking.",
     "Has a long, slightly curved bill and pale eyebrow stripe.",
     "Prefers rocky outcrops, canyons, and arid slopes.",
@@ -2375,7 +2375,7 @@
     "Forages by hopping among rocks and low vegetation.",
     "Can survive in harsh, dry environments."
   ],
-  "Winter_Wren": [
+  "199.Winter_Wren": [
     "Tiny, round wren with dark brown plumage and fine barring.",
     "Has a very short tail often held upright.",
     "Prefers dense, damp forests with heavy undergrowth.",
@@ -2387,7 +2387,7 @@
     "Forages close to the ground in shaded areas.",
     "Known for its powerful voice despite its small size."
   ],
-  "Common_Yellowthroat": [
+  "200.Common_Yellowthroat": [
     "Small warbler with olive upperparts and bright yellow throat and chest.",
     "Males have a distinctive black facial mask bordered by white.",
     "Prefers marshes, wetlands, and shrubby habitats.",
