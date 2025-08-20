@@ -3,7 +3,7 @@
 #cd ../..
 
 # custom config
-DATA=/path/to/datasets
+DATA=/content/data
 TRAINER=CoCoOp
 
 DATASET=imagenet

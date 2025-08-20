@@ -3,7 +3,7 @@
 #cd ../..
 
 # custom config
-DATA="/path/to/dataset/folder"
+DATA="/content/data"
 TRAINER=CoCoOp
 
 DATASET=$1
