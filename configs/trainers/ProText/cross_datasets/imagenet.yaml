@@ -38,7 +38,7 @@ TRAINER:
     CTX_INIT: "a photo of a"
     PREC: "fp16"
     PROMPT_DEPTH_TEXT: 9
-    GPT_PATH: "templates/CuPL_image_prompts.json" # templates/CuPL_image_prompts.json
+    GPT_PATH: "templates/tinyimagenet_prompts.json" # templates/CuPL_image_prompts.json
     USE_TEMPLATES: False
     USE_ATTRIBUTE_DATA: False
     CROSS_DATASET: True
