@@ -27,6 +27,6 @@ else
     --config-file configs/trainers/${TRAINER}/${CFG}.yaml \
     --output-dir ${DIR} \
     --model-dir output/imagenet/${TRAINER}/${CFG}_${SHOTS}shots/seed${SEED} \
-    --load-epoch 10 \
+    --load-epoch 5 \
     --eval-only
 fi
