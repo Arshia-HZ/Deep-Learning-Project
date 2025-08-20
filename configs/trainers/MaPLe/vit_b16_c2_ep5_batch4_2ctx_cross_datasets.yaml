@@ -14,8 +14,8 @@ INPUT:
 
 OPTIM:
   NAME: "sgd"
-  LR: 0.0026
-  MAX_EPOCH: 2
+  LR: 0.0035
+  MAX_EPOCH: 5
   LR_SCHEDULER: "cosine"
   WARMUP_EPOCH: 1
   WARMUP_TYPE: "constant"
@@ -33,4 +33,4 @@ TRAINER:
     N_CTX: 2
     CTX_INIT: "a photo of a"
     PREC: "fp16"
-    PROMPT_DEPTH: 3
+    PROMPT_DEPTH: 9
