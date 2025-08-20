@@ -1,6 +1,6 @@
 DATASET=$1
 EXP=$2
-DATAPATH=/path/to/datasets/folder
+DATAPATH=/content/data
 
 # Train on all classes for a given dataset
 # --seed is only a place holder

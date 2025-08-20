@@ -28,6 +28,7 @@ CUSTOM_TEMPLATES_PROTEXT = {
     "ImageNetV2": "a photo of a {}.",
     "ImageNetA": "a photo of a {}.",
     "ImageNetR": "a photo of a {}.",
+    "CUB200": "a photo of a {}, a type of bird.",
 }
 
 CUSTOM_TEMPLATES = {
@@ -46,6 +47,7 @@ CUSTOM_TEMPLATES = {
     "ImageNetV2": "a photo of a {}.",
     "ImageNetA": "a photo of a {}.",
     "ImageNetR": "a photo of a {}.",
+    "CUB200": "a photo of a {}, a type of bird.",
 }
 
 
