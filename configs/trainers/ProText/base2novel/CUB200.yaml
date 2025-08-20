@@ -16,7 +16,7 @@ INPUT:
 OPTIM:
   NAME: "adamw"
   LR: 0.03
-  MAX_EPOCH: 30
+  MAX_EPOCH: 10
   LR_SCHEDULER: "cosine"
   WARMUP_EPOCH: 5
   WARMUP_TYPE: "constant"
