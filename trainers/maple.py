@@ -209,7 +209,7 @@ def _get_clones(module, N):
 
 
 @TRAINER_REGISTRY.register()
-class MaPLe(TrainerX):
+class MIP(TrainerX):
     def check_cfg(self, cfg):
         assert cfg.TRAINER.MAPLE.PREC in ["fp16", "fp32", "amp"]
 
@@ -226,6 +226,27 @@ class MaPLe(TrainerX):
 
         print("Building custom CLIP")
         self.model = CustomCLIP(cfg, classnames, clip_model)
+
+        if cfg.TRAINER.MAPLE.INIT:
+            print(f"Loading ProText initialization from {cfg.TRAINER.MAPLE.INIT_PROTEXT}")
+            ckpt = torch.load(cfg.TRAINER.MAPLE.INIT_PROTEXT, map_location="cpu", weights_only=False)
+            state_dict = ckpt["state_dict"]
+
+            if "prompt_learner.ctx" in state_dict:
+                src_ctx = state_dict["prompt_learner.ctx"]
+                dst_ctx = self.model.prompt_learner.ctx   
+
+                with torch.no_grad():
+                    if src_ctx.shape == dst_ctx.shape:
+                        dst_ctx.copy_(src_ctx)
+                        print(f"Loaded ProText ctx with shape {src_ctx.shape}")
+                    else:
+                        min_len = min(src_ctx.shape[0], dst_ctx.shape[0])
+                        dst_ctx[:min_len].copy_(src_ctx[:min_len])
+                        print(f"Partially loaded ProText ctx: {src_ctx.shape} → {dst_ctx.shape}")
+            else:
+                print("ProText ctx not found in checkpoint, skipping...")
+
 
         print("Turning off gradients in both the image and the text encoder")
         name_to_update = "prompt_learner"

@@ -34,3 +34,5 @@ TRAINER:
     CTX_INIT: "a photo of a"
     PREC: "fp16"
     PROMPT_DEPTH: 9
+    INIT: True
+    INIT_PROTEXT: "/content/Deep-Project-Phase4/output/experiment/path/CUB200/model-weights-R1"
